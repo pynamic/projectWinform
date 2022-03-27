@@ -1,0 +1,21 @@
+C:\Users\X1 CARBON\source\repos\DemoExploter\DTOProj\bin\Debug\DTOProj.dll
+C:\Users\X1 CARBON\source\repos\DemoExploter\DTOProj\bin\Debug\DTOProj.pdb
+C:\Users\X1 CARBON\source\repos\DemoExploter\DTOProj\obj\Debug\DTOProj.dll
+C:\Users\X1 CARBON\source\repos\DemoExploter\DTOProj\obj\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DTOProj\bin\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DTOProj\bin\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DTOProj\obj\Debug\DTOProj.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DTOProj\obj\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DTOProj\obj\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DACK0\DemoExploter\DTOProj\bin\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DACK0\DemoExploter\DTOProj\bin\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DACK0\DemoExploter\DTOProj\obj\Debug\DTOProj.csprojAssemblyReference.cache
+C:\Users\adga\Desktop\DACK0\DemoExploter\DTOProj\obj\Debug\DTOProj.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DACK0\DemoExploter\DTOProj\obj\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DACK0\DemoExploter\DTOProj\obj\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DemoExploter\DTOProj\bin\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DemoExploter\DTOProj\bin\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DemoExploter\DTOProj\obj\Debug\DTOProj.csprojAssemblyReference.cache
+C:\Users\adga\Desktop\DemoExploter\DTOProj\obj\Debug\DTOProj.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DemoExploter\DTOProj\obj\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DemoExploter\DTOProj\obj\Debug\DTOProj.pdb

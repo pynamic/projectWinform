@@ -1,0 +1,25 @@
+C:\Users\X1 CARBON\source\repos\DemoExploter\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\X1 CARBON\source\repos\DemoExploter\MyLib\bin\Debug\MyLib.dll
+C:\Users\X1 CARBON\source\repos\DemoExploter\MyLib\bin\Debug\MyLib.pdb
+C:\Users\X1 CARBON\source\repos\DemoExploter\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\X1 CARBON\source\repos\DemoExploter\MyLib\obj\Debug\MyLib.dll
+C:\Users\X1 CARBON\source\repos\DemoExploter\MyLib\obj\Debug\MyLib.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\MyLib\bin\Debug\MyLib.dll
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\MyLib\bin\Debug\MyLib.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\MyLib\obj\Debug\MyLib.dll
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\MyLib\obj\Debug\MyLib.pdb
+C:\Users\adga\Desktop\DACK0\DemoExploter\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\adga\Desktop\DACK0\DemoExploter\MyLib\bin\Debug\MyLib.dll
+C:\Users\adga\Desktop\DACK0\DemoExploter\MyLib\bin\Debug\MyLib.pdb
+C:\Users\adga\Desktop\DACK0\DemoExploter\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DACK0\DemoExploter\MyLib\obj\Debug\MyLib.dll
+C:\Users\adga\Desktop\DACK0\DemoExploter\MyLib\obj\Debug\MyLib.pdb
+C:\Users\adga\Desktop\DemoExploter\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\adga\Desktop\DemoExploter\MyLib\bin\Debug\MyLib.dll
+C:\Users\adga\Desktop\DemoExploter\MyLib\bin\Debug\MyLib.pdb
+C:\Users\adga\Desktop\DemoExploter\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\adga\Desktop\DemoExploter\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DemoExploter\MyLib\obj\Debug\MyLib.dll
+C:\Users\adga\Desktop\DemoExploter\MyLib\obj\Debug\MyLib.pdb

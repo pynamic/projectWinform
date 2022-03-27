@@ -1,0 +1,64 @@
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe.config
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\bin\Debug\DemoExploter.pdb
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csprojAssemblyReference.cache
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Form1.resources
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Properties.Resources.resources
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.GenerateResource.cache
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.exe
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.pdb
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.ucCauTraLoi.resources
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\bin\Debug\MyLib.dll
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.CopyComplete
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmGameShow.resources
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmMain.resources
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\bin\Debug\DTOProj.dll
+C:\Users\X1 CARBON\source\repos\DemoExploter\DemoExploter\bin\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\bin\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\bin\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csprojAssemblyReference.cache
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Form1.resources
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmGameShow.resources
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmMain.resources
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Properties.Resources.resources
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.ucCauTraLoi.resources
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.GenerateResource.cache
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.exe
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe.config
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\bin\Debug\DemoExploter.pdb
+C:\Users\adga\Desktop\DACK08072020\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.CopyComplete
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe.config
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\bin\Debug\DemoExploter.pdb
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\bin\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\bin\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csprojAssemblyReference.cache
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Form1.resources
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmGameShow.resources
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmMain.resources
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Properties.Resources.resources
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.ucCauTraLoi.resources
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.GenerateResource.cache
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.CopyComplete
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.exe
+C:\Users\adga\Desktop\DACK0\DemoExploter\DemoExploter\obj\Debug\DemoExploter.pdb
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe.config
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\bin\Debug\DemoExploter.exe
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\bin\Debug\DemoExploter.pdb
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\bin\Debug\DTOProj.dll
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\bin\Debug\DTOProj.pdb
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csprojAssemblyReference.cache
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Form1.resources
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmGameShow.resources
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.frmMain.resources
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.Properties.Resources.resources
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.ucCauTraLoi.resources
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.GenerateResource.cache
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.CoreCompileInputs.cache
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.csproj.CopyComplete
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.exe
+C:\Users\adga\Desktop\DemoExploter\DemoExploter\obj\Debug\DemoExploter.pdb
